@@ -548,3 +548,4 @@ pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pubnative.net, 1009458, RESELLER, d641df8625486a7b
 smartclip.net, 14679, RESELLER
 smartclip.net, 15458, RESELLER
+vungle.com, 6ad8b9673ed89407f2d03ed4, DIRECT, c107d686becd2d77
