@@ -545,6 +545,8 @@ zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
 pubnative.net, 1009458, RESELLER, d641df8625486a7b
 smartclip.net, 14679, RESELLER
 smartclip.net, 15458, RESELLER
